@@ -1,5 +1,2 @@
-# DrumStick_Project![tindog](https://user-images.githubusercontent.com/79411680/188276948-90d76ac3-5a00-40b5-82ee-64604fc50eff.png)
-![tindog1](https://user-images.githubusercontent.com/79411680/188277164-30662fcd-b704-40a2-8577-95cacf081912.png)
-![tindog2](https://user-images.githubusercontent.com/79411680/188277169-b7848cc6-4ad4-487b-9916-e100036eba8e.png)
-![tindog3](https://user-images.githubusercontent.com/79411680/188277180-e273b56e-6615-45b4-9f99-01e78f94a254.png)
-![tindog4](https://user-images.githubusercontent.com/79411680/188277185-12454fd6-9a68-4aec-b52f-549d0b2c6c2f.png)
+# DrumStick_Project!
+![drumkit](https://user-images.githubusercontent.com/79411680/188277374-2219bc37-7311-4233-999c-f6c23e990c30.png)
